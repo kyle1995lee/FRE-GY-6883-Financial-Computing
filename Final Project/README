@@ -1,0 +1,30 @@
+Each team will do only one submission from team leader.
+
+More detailed information about team project:
+
+For each team, please make ONLY one submission. The submission should be done by the team lead. Your submission should include a PowerPoint presentation and a zip file for the project. The team leader of each team is requested to make 1st submission one week before presentation and the final submission on presentation day (if needed).
+
+The zip file for the project should have all the source codes and outputs (rename your outputs, so your outputs will not be wiped out if I run your program). It should be in an executable condition, i.e. I could run your project on my PC or MAC computers if necessary.
+
+Your PowerPoint presentation should have about 20 slides, which includes
+
+(1) Title page: Project name, course name and all the team member names
+
+(2) A brief executive summary.
+
+(3) A task allocation page indicates contribution from each team member. In addition to a team grade, each student will be judged by his/her contribution to the project for his/her own grade. In other words, the project grade for each student consists of team points and his/her own points.
+
+(4) An explanation of how your group selected stocks. Your Bloomberg query or other approach for getting the group information (Put the detailed information in your report as well as speaker notes of your presentation).
+
+(5) More importantly, the diagrams showing your design, such as how you used containers to manage your data, how you implemented all the calculation, the flow charts of your programs, the relationship of your class(es), containers, and independent functions (if you use). UML diagrams are preferred.
+
+(6) Explanations of the functionality and implementation of your class(es), containers and others. But do not just copy and paste your source codes onto slides.
+
+(7) Your final Excel chart or gunplot chart
+
+(8) Your conclusion
+
+(9) Any enhancement and enrichment you have added to this project.
+
+(10) A reference slide.
+

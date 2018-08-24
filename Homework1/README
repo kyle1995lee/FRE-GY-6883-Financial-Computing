@@ -1,0 +1,20 @@
+Homework1:
+The following is the input you are requested to use for verifying your program output:
+
+/*
+
+Enter S0: 106
+Enter U:  0.15125
+Enter D:  -0.13138
+Enter R:  0.00545
+
+Input data checked
+There is no arbitrage
+
+Enter call option data:
+Enter steps to expiry N: 8
+Enter strike price K:    100
+
+*/
+
+Your output should be around: 21.6811

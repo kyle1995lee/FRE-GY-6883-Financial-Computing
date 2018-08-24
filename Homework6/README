@@ -1,0 +1,18 @@
+You could still use the same input we have been using:
+
+Enter S0: 106
+Enter U:  0.15125
+Enter D:  -0.13138
+Enter R:  0.00545
+
+Input data checked
+There is no arbitrage
+
+Enter call option data:
+Enter steps to expiry N: 8
+Enter strike price K:    100
+
+Enter put option data:
+Enter steps to expiry N: 8
+Enter strike price K:    100
+

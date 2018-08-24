@@ -1,0 +1,51 @@
+The following is a sample of input and output from the program:
+
+/*
+Enter S0: 106
+Enter U:  0.1525
+Enter D:  -0.13138
+Enter R:  0.00545
+
+Input data checked
+There is no arbitrage
+
+Enter call option data:
+Enter steps to expiry N: 8
+Enter strike price K:    100
+
+European call option price = 21.7726
+
+Enter put option data:
+Enter steps to expiry N: 8
+Enter strike price K:    100
+
+European put option price = 11.5176
+
+Enter double-digital option data:
+Enter steps to expiry N: 8
+Enter parameter K1:      100
+Enter parameter K2:      110
+
+European double-digital option price = 0.260448
+
+Enter European strangle option data:
+Enter steps to expiry N: 8
+Enter parameter K1:      100
+Enter parameter K2:      110
+
+N  = 8
+K1 = 100
+K2 = 110
+
+European strangle spread option price = 28.4991
+
+Enter European butterfly spread option data:
+Enter steps to expiry N: 8
+Enter parameter K1:      100
+Enter parameter K2:      110
+
+N  = 8
+K1 = 100
+K2 = 110
+
+European butterfly spread option price = 0.921831

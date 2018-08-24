@@ -1,0 +1,4 @@
+You should use a function for which you could easily verify the integration result, such as  
+
+f(x) = x*x*x - x*x + 1, a = 1.0 and b = 2.0.
+

@@ -1,0 +1,46 @@
+Please use the following inputs for HW8 Q1 and Q2. Thanks.
+
+Q1:
+
+   cout << setiosflags(ios::fixed) << setprecision(4);
+   double Acc=0.001;
+   double LEnd=0.0, REnd=2.0;
+   double Tgt=0.0;
+   double Guess=1.0;
+
+Output:
+
+Root of F1 by bisect: 1.4150
+Root of F2 by bisect: 1.7314
+Root of F1 by Newton-Raphson: 1.4142
+Root of F2 by Newton-Raphson: 1.7321
+
+Q2:
+
+   double F=100.0;
+   double T=3.0;
+   double C=1.2;
+   double P=98.56;
+
+   double Acc=0.0001;
+   double LEnd=0.0;
+   double REnd=1.0;
+   double Guess=0.2;
+
+Output:
+
+F = 100.0000
+T = 3.0000
+coupons:
+C0 = 1.2000
+C1 = 1.2000
+C2 = 1.2000
+tenors:
+T0 = 1.0000
+T1 = 2.0000
+T2 = 3.0000
+P = 98.5600
+
+Yield by bisection method: 0.0168
+Yield by Newton-Raphson method: 0.0168
+
